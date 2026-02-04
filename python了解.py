@@ -2,7 +2,6 @@
 # This line imports the "Zen of Python," a collection of guiding principles for writing computer programs in Python.
 # It emphasizes code readability, simplicity, and the importance of explicitness in coding practices.
 # You can run this code in a Python environment to see the full text of the Zen of Python.
-'import this'
 # Output:# The Zen of Python, by Tim Peters
 # Beautiful is better than ugly.
 # Explicit is better than implicit.
